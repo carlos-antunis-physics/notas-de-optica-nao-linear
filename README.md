@@ -15,4 +15,4 @@ Repositório com notas de aula e algumas simulações relacionadas à disciplina
 
 ##  Sumário
 
-1. [**Introdução à óptica não-linear**](./notebooks/1.introducao-a-optica-nao-linear/main.ipynb)
+1. [**Introdução à óptica não-linear**](./notebooks/lecture-1.ipynb)
