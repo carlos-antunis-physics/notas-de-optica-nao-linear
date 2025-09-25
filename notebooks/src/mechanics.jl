@@ -30,7 +30,7 @@ module mechanics
         kv[1] =
             state.drivingField(_t) -
             ω² * _x -
-            state.ζ * _v -
+            state.ζ * _v +
             state.non_linearity(_x);
 
         _t = state.t + 0.5dt;
@@ -41,7 +41,7 @@ module mechanics
         kv[2] =
             state.drivingField(_t) -
             ω² * _x -
-            state.ζ * _v -
+            state.ζ * _v +
             state.non_linearity(_x);
 
         _t = state.t + 0.5dt;
@@ -52,7 +52,7 @@ module mechanics
         kv[3] =
             state.drivingField(_t) -
             ω² * _x -
-            state.ζ * _v -
+            state.ζ * _v +
             state.non_linearity(_x);
 
         _t = state.t + dt;
@@ -63,7 +63,7 @@ module mechanics
         kv[4] =
             state.drivingField(_t) -
             ω² * _x -
-            state.ζ * _v -
+            state.ζ * _v +
             state.non_linearity(_x);
 
         state.t += dt;
