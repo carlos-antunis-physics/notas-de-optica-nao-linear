@@ -15,4 +15,10 @@ Repositório com notas de aula e algumas simulações relacionadas à disciplina
 
 ##  Sumário
 
-1. [**Introdução à óptica não-linear**](./notebooks/lecture-1.ipynb)
+>   1. [**Introdução à óptica não-linear**](./notebooks/lecture-1.ipynb)
+>
+>   Neste notebook é abordado a dinâmica da oscilação dos elétrons de valência de cristais não-lineares abordando possíveis efeitos de oscilação não-linear decorrentes da aplicação de campos eletromagnéticos intensos sobre a matéria.
+
+>   2. [**Eletrodinâmica de meios não-lineares**](./notebooks/lecture-2.ipynb)
+>
+>   Neste notebook aprofundamo-nos na teoria eletromagnética para compreender como as oscilações não-lineares dos elétrons de valência afetam a maneira com que os meios dielétricos respondem aos campos eletromagnéticos.
